@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 24 15:29:15 2017
 
-@author: srivathsan
+@author: srivathsan for work
 """
 
 def GetSearchString():
